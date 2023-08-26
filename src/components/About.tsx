@@ -22,10 +22,9 @@ const About = () => {
               </h3>
               <p>
                 As a Full Stack Developer, I possess an impressive arsenal
-                of skills in HTML, CSS, JavaScript, React, C#, .net, Docker,
+                of skills in React, C#, .net, Docker,
                  Kubernetes. I
-                excel in designing and maintaining responsive websites that
-                offer a smooth user experience.I am currently working at Qualcomm
+                excel in making scalable web apps. I am currently working at Qualcomm
                 as a Software Engineer 
                  I am also a team player who thrives in collaborating
                 with cross-functional teams to produce outstanding web
